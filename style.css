@@ -142,16 +142,16 @@ footer {
 /*extra large devices */
 @media (min-width:1401px) {
 .card {
-    height: 30vh;
+    height: 43vh;
     }
 }
 
-/*large devices */
-@media (min-width:1200px)and (max-width:1400px){
+/* large devices */
+/* @media (min-width:1200px)and (max-width:1400px){
     .sec2 {
-        height: 70vh;
+        height: 75vh;
     }
-}
+} */
 
 /*medium  devices(tablets) */
 @media (min-width:992px) and (max-width:1199px) {
