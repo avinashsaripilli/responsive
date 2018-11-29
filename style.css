@@ -142,7 +142,7 @@ footer {
 /*extra large devices */
 @media (min-width:1401px) {
 .card {
-    height: 43vh;
+    height: 44vh;
     }
 }
 
